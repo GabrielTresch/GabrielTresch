@@ -1,14 +1,13 @@
-### Hi there, I'm Gabriel 👋
+### Hello, je suis Gabriel Tresch 👋
 
-<!-- ## I'm a Husband, Father, Developer, and Teacher!!
+### En savoir plus sur moi
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums -->
+- Avec mon associé, nous venons de créer notre agence spécialisé dans le développement sur-mesure [OLWE Développement][olwe_website] 🔥
+- Je suis sans cesse à la recherche de nouveaux défis 💪
+- Passionné par les nouvelles technologies ⚛️
+- J'adore les chats 🐱
 
-### Connect with me:
+### Mes réseaux sociaux
 
 [<img align="left" alt="gabrieltresch.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -17,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### Langages de programmations et outils que j'utilise:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -36,3 +35,4 @@
 [twitter]: https://twitter.com/gabrieltresch
 [instagram]: https://www.instagram.com/gabriel_tresch/
 [linkedin]: https://www.linkedin.com/in/gabriel-tresch-64181612a/
+[olwe_website]: https://olwe.fr/
