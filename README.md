@@ -1,5 +1,4 @@
 ### Hello, je suis Gabriel Tresch 👋
-<a href="https://app.daily.dev/gabriel_tresch" style='display:block;margin-left:auto;'><img src="https://api.daily.dev/devcards/2651f9c383064c9e975bd951281825f8.png?r=hb5" width="250" alt="Gabriel Tresch's Dev Card"/></a>
 
 ### En savoir plus sur moi
 
