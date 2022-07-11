@@ -2,7 +2,7 @@
 
 ### En savoir plus sur moi
 
-- Avec mon associé, nous venons de créer notre agence spécialisé dans le développement sur-mesure [OLWE Développement][olwe_website] 🔥
+- Avec mon associé, nous venons de créer notre agence web [OLWE Développement][olwe_website] 🔥
 - Je suis sans cesse à la recherche de nouveaux défis 💪
 - Passionné par les nouvelles technologies ⚛️
 - J'adore les chats 🐱
